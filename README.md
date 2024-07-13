@@ -5,14 +5,19 @@ ten la absoluta certeza que iré subiendo cada vez más proyectos, más variados
 <table>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/889fad8d-362f-4a79-925d-409da55b426a" alt="image" width="280" height="170">
+      <img src="https://github.com/user-attachments/assets/889fad8d-362f-4a79-925d-409da55b426a" alt="image" width="230" height="170">
     </td>
     <td>
      Ejem, pero antes de conquistar el mundo y dejarte dominar al menos deberías saber mi nombre, no?, bien.<br> 
-     Mi nombre es Miguel, soy estudiante de estadística, un chico que tiene claro que quedará calvo algún día,<br> aficionado a las tecnologías, especialmente en el área de análisis de datos e inteligencia artifical. <br>
-     
-      
+     Mi nombre es Miguel, soy estudiante de estadística, un chico que tiene claro que quedará calvo algún día.<br>
+      Soy un aficionado a las tecnologías, especialmente en el área de análisis de datos e inteligencia artifical. <br>
   </td>
   </tr>
 </table>
 
+Y mis intereses se podrían resumir en:
+     * Leer libros
+     * Leer Manhwas
+     * Jugar videojuegos
+     * Programar
+     Y así por encima van mis gustos.

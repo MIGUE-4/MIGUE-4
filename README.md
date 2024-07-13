@@ -30,12 +30,7 @@ En general, me podría resumir como un nerd, deportivo e introvertido (con un gu
  <img src="https://github.com/user-attachments/assets/1e9d5d92-44eb-44c9-abe6-1968cf255815" alt="image" width="700" height="700">
     </td>
     <td>
-     Ejem, pero antes de conquistar el mundo y dejarte <br> 
-      dominar al menos deberías saber mi nombre, no?, bien.<br> 
-     Mi nombre es Miguel, soy estudiante de estadística, <br>
-      un chico que tiene claro que quedará calvo algún día.<br>
-      Soy un aficionado a las tecnologías, especialmente en <br>
-      el área de análisis de datos e inteligencia artifical. <br>
+     Espero este espacio sea de su agrado :3
   </td>
   </tr>
 </table>

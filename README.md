@@ -1,6 +1,5 @@
 # 🥸 Hola Hola!!😎
 ## ¿Qué tal? <br>
-![image](https://github.com/user-attachments/assets/370bc976-2434-4b25-9ce8-00d7f65734ad)
 
 Benvenidos a mi santuario!!.. o bueno, a mi humilde y cómoda choza. Donde podrán disfrutar de... bueno, aún me falta archivar muchos proyectos profesionales en realidad, sin embargo
 ten la absoluta certeza que iré subiendo cada vez más proyectos, más variados, más interesantes y así poco a poco te iré llevando al lado oscuro! <br>
@@ -16,6 +15,7 @@ ten la absoluta certeza que iré subiendo cada vez más proyectos, más variados
   </td>
   </tr>
 </table>
+![Uploading image.png…]()
 
 Y mis intereses se podrían resumir en:
 <ul>
@@ -26,11 +26,11 @@ Y mis intereses se podrían resumir en:
   <li>Jugar Basketball</li>
  </ul>
 En general, me podría resumir como un nerd, deportivo e introvertido (con un gusto particular por los ninjas, samurais y demás) <br>
-![image](https://github.com/user-attachments/assets/100eea28-899b-48c0-923c-6b315fe27510)
+![Uploading image.png…]()
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github.com/user-attachments/assets/422f2381-197a-4ae2-a521-333fd00bb1a4" alt="image" width="300" height="200" style="margin-right: 10px;">
-  <img src="https://github.com/user-attachments/assets/0f497d48-8d63-4053-ba8f-21cf63c75b8f" alt="image" width="400" height="200" style="margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/422f2381-197a-4ae2-a521-333fd00bb1a4" alt="image" width="300" height="200" style="margin-right: 30px;">
+  <img src="https://github.com/user-attachments/assets/0f497d48-8d63-4053-ba8f-21cf63c75b8f" alt="image" width="400" height="200" style="margin-right: 30px;">
   <img src="https://github.com/user-attachments/assets/ac2e45f9-5ca7-41ba-b361-074366d788c8" alt="image" width="200" height="200">
 </div>
 

@@ -27,10 +27,12 @@ En general, me podría resumir como un nerd, deportivo e introvertido (con un gu
 <table>
   <tr>
     <td>
- <img src="https://github.com/user-attachments/assets/1e9d5d92-44eb-44c9-abe6-1968cf255815" alt="image" width="700" height="700">
+ <img src="https://github.com/user-attachments/assets/1e9d5d92-44eb-44c9-abe6-1968cf255815" alt="image" width="400" height="400">
     </td>
     <td>
      Espero este espacio sea de su agrado :3
+    
   </td>
   </tr>
 </table>
+Mami, si lees esto dile a mi hermano que me devuelva mi camiseta. 😡

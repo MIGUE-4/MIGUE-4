@@ -11,10 +11,11 @@
       <img src="https://github.com/user-attachments/assets/889fad8d-362f-4a79-925d-409da55b426a" alt="image" width="200" height="170">
     </td>
     <td style="border: none;">
-      Ejem, pero antes de conquistar el mundo y dejarte dominar, al menos deberías saber mi nombre, ¿no? Bien. <br> 
-      Mi nombre es Miguel, soy estudiante de estadística, un chico que tiene claro que quedará calvo algún día...
-      (eh ahí porqué el casco de Darth Vader)Soy un aficionado a las tecnologías, especialmente en el área de análisis de
-      datos y machine learning (IA).
+      Ejem, pero antes de conquistar el mundo y dejarte dominar, al menos deberías saber <br> 
+      mi nombre, ¿no?, bien.Mi nombre es Miguel, soy estudiante de estadística, un chico que <br>
+      tiene claro que quedará calvo algún día...(eh ahí porqué el casco de Darth Vader) <br>
+      Soy un aficionado a las tecnologías, especialmente en el área de análisis de datos y <br>
+      machine learning (IA).
     </td>
   </tr>
 </table>

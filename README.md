@@ -26,7 +26,7 @@ Y mis intereses se podrían resumir en:
 En general, me podría resumir como un nerd, deportivo e introvertido (con un gusto particular por los ninjas, samurais y demás) <br>
 <div style="display: flex; justify-content: space-between;">
   <img src="https://github.com/user-attachments/assets/422f2381-197a-4ae2-a521-333fd00bb1a4" alt="image" width="300" height="200" style="margin-right: 10px;">
-  <img src="https://github.com/user-attachments/assets/0f497d48-8d63-4053-ba8f-21cf63c75b8f" alt="image" width="300" height="200" style="margin-right: 10px;">
+  <img src="https://github.com/user-attachments/assets/0f497d48-8d63-4053-ba8f-21cf63c75b8f" alt="image" width="350" height="200" style="margin-right: 10px;">
   <img src="https://github.com/user-attachments/assets/ac2e45f9-5ca7-41ba-b361-074366d788c8" alt="image" width="200" height="200">
 </div>
 

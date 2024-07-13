@@ -1,8 +1,8 @@
 # 🥸 ̄¡¡Hola Hola!!😎
 ## ¿Qué tal? <br>
-![image](https://github.com/user-attachments/assets/e730f14f-27e2-4397-b412-35f99787d7d4)
 
 ¡Bienvenidos a mi santuario!.. o bueno, a mi humilde y cómoda choza. Donde podrán disfrutar de... bueno, aún me falta archivar muchos proyectos profesionales en realidad, sin embargo, ten la absoluta certeza de que iré subiendo cada vez más proyectos, más variados, más interesantes, y así, poco a poco, te iré llevando al lado oscuro! <br>
+![image](https://github.com/user-attachments/assets/20c7b2da-9517-42c3-9185-45c3a06d9ffd)
 
 <table style="border: none;">
   <tr style="border: none;">

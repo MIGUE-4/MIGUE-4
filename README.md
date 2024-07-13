@@ -35,6 +35,7 @@ En general, me podría resumir como un nerd, deportivo e introvertido (con un gu
   <img src="https://github.com/user-attachments/assets/0f497d48-8d63-4053-ba8f-21cf63c75b8f" alt="image" width="300" height="200" style="margin-right: 10px;">
   <img src="https://github.com/user-attachments/assets/ac2e45f9-5ca7-41ba-b361-074366d788c8" alt="image" width="200" height="200">
 </div>
+ <img src="https://github.com/user-attachments/assets/57fa6782-8257-4894-a159-07c6d5540683" alt='image'>
 
 <table style="border: none;">
   <tr style="border: none;">

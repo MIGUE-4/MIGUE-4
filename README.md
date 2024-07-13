@@ -25,4 +25,4 @@ Y mis intereses se podrían resumir en:
  </ul>
 En general, me podría resumir como un nerd, deportivo e introvertido :D
 
- <img src="https://github.com/user-attachments/assets/1e9d5d92-44eb-44c9-abe6-1968cf255815" alt="image" width="700" height="600">
+ <img src="https://github.com/user-attachments/assets/1e9d5d92-44eb-44c9-abe6-1968cf255815" alt="image" width="700" height="700">

@@ -24,8 +24,8 @@ Y mis intereses se podrían resumir en:
   <li>Jugar Basketball</li>
  </ul>
 En general, me podría resumir como un nerd, deportivo e introvertido (con un gusto particular por los ninjas, samurais y demás)
-![image](https://github.com/user-attachments/assets/422f2381-197a-4ae2-a521-333fd00bb1a4)
-![image](https://github.com/user-attachments/assets/0f497d48-8d63-4053-ba8f-21cf63c75b8f)
+![image](https://github.com/user-attachments/assets/422f2381-197a-4ae2-a521-333fd00bb1a4) <br>
+![image](https://github.com/user-attachments/assets/0f497d48-8d63-4053-ba8f-21cf63c75b8f) <br>
 ![image](https://github.com/user-attachments/assets/ac2e45f9-5ca7-41ba-b361-074366d788c8)
 
 

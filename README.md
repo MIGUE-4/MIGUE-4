@@ -16,9 +16,10 @@ ten la absoluta certeza que iré subiendo cada vez más proyectos, más variados
 </table>
 
 Y mis intereses se podrían resumir en:
-  
-     * Leer libros
-     * Leer Manhwas
-     * Jugar videojuegos
-     * Programar
+  <li>
+     - Leer libros
+     - Leer Manhwas
+     - Jugar videojuegos
+     - Programar
      Y así por encima van mis gustos.
+  </li>

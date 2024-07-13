@@ -1,6 +1,6 @@
 # 🥸 Hola Hola!!😎
 ## ¿Qué tal? <br>
-Benvenidos a mi santuario!!.. bueno, mi humilde y cómoda choza. Donde podrán disfrutar de... bueno, aún me falta archivar muchos proyectos profesionales en realidad, sin embargo
+Benvenidos a mi santuario!!.. o bueno, a mi humilde y cómoda choza. Donde podrán disfrutar de... bueno, aún me falta archivar muchos proyectos profesionales en realidad, sin embargo
 ten la absoluta certeza que iré subiendo cada vez más proyectos, más variados, más interesantes y así poco a poco te iré llevando al lado oscuro! <br>
 <table>
   <tr>
@@ -22,7 +22,7 @@ Y mis intereses se podrían resumir en:
   <li>Jugar videojuegos</li>
   <li>Programar</li>
   <li>Jugar Basketball</li>
-  <li>
-    En general, me podría resumir como un nerd, deportivo e introvertido :D
-  </li>
-</ul>
+ </ul>
+En general, me podría resumir como un nerd, deportivo e introvertido :D
+
+<img src="https://www.bing.com/images/create/un-fondo-de-color-rojo-oscuro-vinotinto-con-ninj/1-6691f9510f3d4e20a47a8c7bd3919f3d?id=FBu0RflhedmbP6aZp9A3Dw%3d%3d&view=detailv2&idpp=genimg&idpclose=1&thId=OIG3.bpsCxT5t2SCk0OW95Rdd&frame=sydedg&FORM=SYDBIC">

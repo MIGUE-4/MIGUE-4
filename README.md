@@ -17,6 +17,7 @@
     </td>
   </tr>
 </table>
+ <img src="https://github.com/user-attachments/assets/57fa6782-8257-4894-a159-07c6d5540683" alt='image'>
 
 ### Y mis intereses se podrían resumir en:
 <ul>

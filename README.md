@@ -25,4 +25,4 @@ Y mis intereses se podrían resumir en:
  </ul>
 En general, me podría resumir como un nerd, deportivo e introvertido :D
 
-<img src="https://www.bing.com/images/create/un-fondo-de-color-rojo-oscuro-vinotinto-con-ninj/1-6691f9510f3d4e20a47a8c7bd3919f3d?id=FBu0RflhedmbP6aZp9A3Dw%3d%3d&view=detailv2&idpp=genimg&idpclose=1&thId=OIG3.bpsCxT5t2SCk0OW95Rdd&frame=sydedg&FORM=SYDBIC">
+![image](https://github.com/user-attachments/assets/1e9d5d92-44eb-44c9-abe6-1968cf255815)

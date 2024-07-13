@@ -16,10 +16,13 @@ ten la absoluta certeza que iré subiendo cada vez más proyectos, más variados
 </table>
 
 Y mis intereses se podrían resumir en:
+<ul>
+  <li>Leer libros</li>
+  <li>Leer Manhwas</li>
+  <li>Jugar videojuegos</li>
+  <li>Programar</li>
+  <li>Jugar Basketball</li>
   <li>
-     - Leer libros
-     - Leer Manhwas
-     - Jugar videojuegos
-     - Programar
-     Y así por encima van mis gustos.
+    En general, me podría resumir como un nerd, deportivo e introvertido :D
   </li>
+</ul>

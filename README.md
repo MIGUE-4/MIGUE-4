@@ -1,4 +1,4 @@
-# 🥸 ̄¡¡Hola Hola!!😎
+# 🥸¡¡Hola Hola!!😎
 ## ¿Qué tal? <br>
 
 ¡Bienvenidos a mi santuario!.. o bueno, a mi humilde y cómoda choza. Donde podrán disfrutar de... bueno, aún me falta archivar muchos proyectos profesionales en realidad, sin embargo, ten la absoluta certeza de que iré subiendo cada vez más proyectos, más variados, más interesantes, y así, poco a poco, te iré llevando al lado oscuro! <br>

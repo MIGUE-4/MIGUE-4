@@ -9,7 +9,13 @@ ten la absoluta certeza que iré subiendo cada vez más proyectos, más variados
     </td>
     <td>
      Ejem, pero antes de conquistar el mundo y dejarte dominar al menos deberías saber mi nombre, no?, bien.<br> 
-     Mi nombre es Miguel, soy de Colombia 🇨🇴, un chico aficionado a las tecnologías, especialmente en el área de análisis de datos e inteligencia artifical
+     Mi nombre es Miguel, soy estudiante de estadística, un chico que tiene claro que quedará calvo algún día, aficionado a las tecnologías, especialmente en el área de análisis de datos e inteligencia artifical. <br>
+     Y mis intereses se podrían resumir en:
+     * Leer libros
+     * Leer Manhwas
+     * Jugar videojuegos
+     * Programar
+     Y así por encima van mis gustos.
       
   </td>
   </tr>

@@ -2,7 +2,8 @@
 ## ¿Qué tal? <br>
 
 ¡Bienvenidos a mi santuario!.. o bueno, a mi humilde y cómoda choza. Donde podrán disfrutar de... bueno, aún me falta archivar muchos proyectos profesionales en realidad, sin embargo, ten la absoluta certeza de que iré subiendo cada vez más proyectos, más variados, más interesantes, y así, poco a poco, te iré llevando al lado oscuro! <br>
-![image](https://github.com/user-attachments/assets/20c7b2da-9517-42c3-9185-45c3a06d9ffd)
+![image](https://github.com/user-attachments/assets/270cb393-8c6a-4868-a8df-3447116a0525)
+
 
 <table style="border: none;">
   <tr style="border: none;">

@@ -12,7 +12,7 @@
     </td>
     <td style="border: none;">
       Ejem, pero antes de conquistar el mundo y dejarte dominar, al menos deberías saber mi nombre, ¿no? Bien. <br> 
-      Mi nombre es Miguel, soy estudiante de estadística, un chico que tiene claro que quedará calvo algún día...(eh ahí porqué el casco de Darth Vader)
+      Mi nombre es Miguel, soy estudiante de estadística, un chico que tiene claro que quedará calvo algún día...(eh ahí porqué <br>el casco de Darth Vader)
       Soy un aficionado a las tecnologías, especialmente en el área de análisis de datos y machine learning (IA). <br>
     </td>
   </tr>

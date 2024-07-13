@@ -30,7 +30,8 @@ En general, me podría resumir como un nerd, deportivo e introvertido (con un gu
  <img src="https://github.com/user-attachments/assets/1e9d5d92-44eb-44c9-abe6-1968cf255815" alt="image" width="400" height="400">
     </td>
     <td>
-     Espero este espacio sea de su agrado :3
+     Espero este espacio sea de su agrado :3 <br>
+     
     
   </td>
   </tr>

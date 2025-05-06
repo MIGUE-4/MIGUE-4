@@ -11,7 +11,7 @@
       <img src="https://github.com/user-attachments/assets/889fad8d-362f-4a79-925d-409da55b426a" alt="image" width="200" height="170">
     </td>
     <td style="border: none;">
-      Ejem, pero antes de conquistar el mundo y dominarte, al menos deberías <br> saber mi nombre, ¿no?, bien.Mi nombre es Miguel, soy estudiante de estadística, <br> un chico que tiene claro que quedará calvo algún día...(eh ahí porqué el casco de <br> Darth Vader) Soy un aficionado a las tecnologías, especialmente en el área <br>de análisis de datos y machine learning (IA).
+      
     </td>
   </tr>
 </table>
@@ -26,7 +26,6 @@
   <li>Jugar Basketball</li>
 </ul>
 
-En general, me podría resumir como un nerd, deportivo e introvertido (con un gusto particular por los ninjas, samuráis y demás). <br>
 
 <div style="display: flex; justify-content: space-between; align-items: center;">
   <img src="https://github.com/user-attachments/assets/422f2381-197a-4ae2-a521-333fd00bb1a4" alt="image" width="300" height="200" style="margin-right: 10px;">
@@ -35,14 +34,4 @@ En general, me podría resumir como un nerd, deportivo e introvertido (con un gu
 </div>
  <img src="https://github.com/user-attachments/assets/57fa6782-8257-4894-a159-07c6d5540683" alt='image'>
 
-<table style="border: none;">
-  <tr style="border: none;">
-    <td style="border: none; padding-right: 10px;">
-      <img src="https://github.com/user-attachments/assets/1e9d5d92-44eb-44c9-abe6-1968cf255815" alt="image" width="400" height="400">
-    </td>
-    <td style="border: none;">
-      Espero que este espacio sea de su agrado :3 <br>
-    </td>
-  </tr>
-</table>
-Mami, si lees esto dile a mi hermano que me devuelva mi camiseta. 😡
+

@@ -10,9 +10,9 @@
       <img src="https://github.com/user-attachments/assets/889fad8d-362f-4a79-925d-409da55b426a" alt="image" width="200" height="170">
     </td>
     <td style="border: none;">
-      <div>I'm a AI super fan (At least to working on projects about it), I love the world of data especially Machine Learning, Neural Network, ETl and so on.</div>
-      <div>I'm also a student of statistic, and of course, I have to love it after all, but beyond just AI or programming, I love understanding how things work, how the world work, how we make decisions, how we find our purpose in life...how we pick our goals</div>
-      <div>Yes, something philosophical.. but It's for me the most important part in my life.</div>
+      <div>I’m an AI superfan (especially when it comes to working on projects related to it). I love the world of data, particularly machine learning, neural networks, ETL, and more.
+I’m also a student of statistics, and of course, I’ve grown to love it. Beyond AI and programming, I enjoy understanding how things work—how the world works, how we make decisions, how we find our purpose in life, and how we set our goals.
+Yes, it’s a bit philosophical, but for me, it’s the most important part of life.</div>
     </td>
   </tr>
 </table>
@@ -21,8 +21,8 @@
 ### Anyway, I'm here to understand how AI, Machine Learning etc work, and here my attemp to delve in many projects. Well, here a piece of information about me, and my hobbies!:
 <ul>
   <li>Books/Papers research</li>
-  <li>I love reading manhwas (Especially those are about Ethic, Moral or Sci-Fi)</li>
-  <li>Programmming (At least programming without AI..)</li>
+  <li>I love reading manhwas (specially those are about Ethic, Moral or Sci-Fi)</li>
+  <li>Programmming</li>
   <li>Basketball... except when my knees are having problems... :(</li>
 </ul>
 

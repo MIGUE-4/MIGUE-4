@@ -1,7 +1,15 @@
 # Hi Hi
 ## What's up? <br>
+<div>
+Welcome! I’m Miguel, a data analyst who is now looking to transition into a role as a data scientist or data engineer. I’ve really enjoyed working in 
 
-¡Welcome!,  <br>
+the data field, but over time, being a data analyst can sometimes feel repetitive—especially with the need for constant client communication. Of course, you eventually master how to handle even the most difficult clients.
+
+Now, I want to focus on improving my programming, logic, and other technical skills. To achieve this, I’ll be uploading many interesting projects here.
+
+Needless to say, let's move on
+
+</div>
 ![image](https://github.com/user-attachments/assets/270cb393-8c6a-4868-a8df-3447116a0525)
 
 <table style="border: none;">
@@ -11,7 +19,9 @@
     </td>
     <td style="border: none;">
       <div>I’m an AI superfan (especially when it comes to working on projects related to it). I love the world of data, particularly machine learning, neural networks, ETL, and more.
+        
 I’m also a student of statistics, and of course, I’ve grown to love it. Beyond AI and programming, I enjoy understanding how things work—how the world works, how we make decisions, how we find our purpose in life, and how we set our goals.
+
 Yes, it’s a bit philosophical, but for me, it’s the most important part of life.</div>
     </td>
   </tr>

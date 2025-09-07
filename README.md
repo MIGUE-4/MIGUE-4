@@ -1,15 +1,13 @@
 # Hi Hi
 ## What's up? <br>
 <div>
-Welcome! I’m Miguel, a data analyst who is now looking to transition into a role as a data scientist or data engineer. I’ve really enjoyed working in 
-
-the data field, but over time, being a data analyst can sometimes feel repetitive—especially with the need for constant client communication. Of course, you eventually master how to handle even the most difficult clients.
+Welcome! I’m Miguel, a data analyst who is now looking to transition into a role as a data scientist or data engineer. I’ve really enjoyed working in the data field, but over time, being a data analyst can sometimes feel repetitive—especially with the need for constant client communication. Of course, you eventually master how to handle even the most difficult clients.
 
 Now, I want to focus on improving my programming, logic, and other technical skills. To achieve this, I’ll be uploading many interesting projects here.
-
 Needless to say, let's move on
 
 </div>
+
 ![image](https://github.com/user-attachments/assets/270cb393-8c6a-4868-a8df-3447116a0525)
 
 <table style="border: none;">
